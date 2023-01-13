@@ -1,0 +1,2 @@
+# Stringgrid-Lazarus
+About Stringgrid
